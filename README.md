@@ -1,4 +1,4 @@
 # AMLTest
 Test for sending mails
- testVinitnew
+ testVinitnewRaj
  test1
